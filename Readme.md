@@ -4,8 +4,8 @@
 
 Software Development: 
 
-** Dr Fridolin Wild (lead), Ferdinand Loesch, Xinyu Huang (Performance Augmentation Lab, Oxford Brookes University, UK)
-** Safwen Bouali, Chalghouma (Athena-IO, Tunisia)
+* Dr Fridolin Wild (lead), Ferdinand Loesch, Xinyu Huang (Performance Augmentation Lab, Oxford Brookes University, UK)
+* Safwen Bouali, Chalghouma (Athena-IO, Tunisia)
 
 Project Team: Eila Watson (Cancer Care), Peter Wright (Cancer Exercise), Jo Brett (PPI), Emma Davies (Psychology), Ryan Pink (Digital Healthcare), Arran Gulliver (Sports Science), Stan Windsor (Exercise Technology), Xinyu Huang (Augmented Reality), Ferdinand Loesch (Augmented Reality), Safwen Bouali (Augmented Reality), Chalghouma (Augmented Reality), Fridolin Wild (Augmented Reality)
 
